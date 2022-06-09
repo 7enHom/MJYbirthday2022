@@ -1,0 +1,2 @@
+tare_planner
+-DCATKIN_DEVEL_PREFIX=/home/wzh/MJYbirthday2022/tare_planner/devel -DCMAKE_INSTALL_PREFIX=/home/wzh/MJYbirthday2022/tare_planner/install -G Unix Makefiles
